@@ -1,2 +1,2 @@
 # dragon-wiki
-The Dragon Wiki (WEB DEV COURSE)
+The Dragon Wiki (A Wev Dev Course)

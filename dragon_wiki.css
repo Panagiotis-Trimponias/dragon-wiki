@@ -1,0 +1,67 @@
+body{
+    background-image: url('../img/manVSdragon.jpg');
+    background-repeat: no-repeat;
+    background-position: middle;
+    background-size: cover;
+}
+
+.hd
+{
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-decoration: underline;
+    text-shadow: 2px 2px 2px black;
+    text-align: center;
+}
+
+.pp
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.fa-facebook, .fa-square-twitter
+{
+    color: rgb(60, 60, 170);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.apply > a:hover
+{
+    color: green;
+}
+
+.apply > a:active
+{
+    color: red;
+}
+
+.hov:hover
+{
+    color: green;
+}
+
+.act:active
+{
+    color: red;
+}
+
+table, th, td
+{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+table
+{
+    width: 250px;
+}
